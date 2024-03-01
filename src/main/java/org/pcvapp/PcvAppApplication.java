@@ -10,5 +10,4 @@ public class PcvAppApplication {
 		SpringApplication.run(PcvAppApplication.class, args);
 	}
 
-
 }
